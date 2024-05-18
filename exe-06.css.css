@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(Comprimido-palatavel-entenda-sua-utilidade-1.jpg.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    color: white;
+}
+label{
+    display: block;
+   
+}
+input{
+    margin-bottom: 10px;
+    width: 100%;
+    height: 20px;
+}
+button{
+    display: block;
+}
+.main{
+    display: flex;
+}
+.main div p, h1{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 400px;
+}
+strong{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.main div h1{
+    font-family: "Poetsen One", sans-serif;
+}
+form{
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgba(170, 0, 97, 1);
+    width: 350px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+form h1{
+    font-size: 20px;
+    text-align: center;
+    width: 300px;
+    font-family: "Kanit", sans-serif;
+    
+}
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: #39B8B8;
+    color: white;
+    margin-bottom: 15px;
+    
+}
+footer{
+    height: 47px;
+    text-align: center;
+    margin-top: 25px;
+    background-color: rgb(57, 53, 53);
+    padding-top: 20px;
+    
+
+}
